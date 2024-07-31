@@ -51,7 +51,7 @@ input {
   font-family: inherit;
   color: inherit;
   font-size: 2rem;
-  background-color: #4d4c4c42;
+  background-color: #535353bb;
   padding: 1.6rem 3.2rem;
   border: none;
   width: 32rem;
@@ -68,7 +68,7 @@ input:focus {
 }
 
 .day {
-  background-color: #f0d2ce;
+  background-color: #535353bb;
   padding: 1.6rem 0 2rem;
   width: 12.8rem;
 
